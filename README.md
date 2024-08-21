@@ -53,7 +53,7 @@ The analysis focuses on university-level data due to confidentiality restriction
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/genius-harry/college-acceptance-rate.git
+    git clone https://github.com/genius-harry/College-Acceptance-Rate-Prediction.git
     cd college-acceptance-rate
     ```
 
